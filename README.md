@@ -12,16 +12,4 @@ Pigmented benign keratosis
 Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
-Project Pipeline
-Data Reading/Understanding:
-
-Define paths for training and testing images.
-Dataset Creation:
-
-Create training and validation datasets from the training directory with a batch size of 32.
-Resize images to 180x180 pixels.
-Dataset Visualization:
-
-Visualize one image from each of the nine classes.
-Model Building & Training (Original Data):
 
